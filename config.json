@@ -6,6 +6,20 @@
   },
   "assignments": [
     {
+      "id": "fastapi-rest",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build a modern REST API using FastAPI to create, read, update and delete data with automatic documentation",
+      "path": "assignments/fastapi-rest",
+      "dueDate": "2025-11-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "python-basics",
       "title": "Python Basics",
       "description": "Variables, data types, conditionals, and loops",
